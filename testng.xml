@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.generics.ActiTime.BaseTest"/>
+      <class name=".NewTestClass"/>
       <class name="miscellaneous.TestVerifyErrorMessages"/>
       <class name="com.scrips.ActiTime.TestActitimeLogin"/>
     </classes>

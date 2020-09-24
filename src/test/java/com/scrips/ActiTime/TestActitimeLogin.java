@@ -3,6 +3,7 @@ package com.scrips.ActiTime;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 import java.io.IOException;
 import com.generics.ActiTime.BaseTest;
 import com.pages.ActiTime.ActiTimeLoginPage;
